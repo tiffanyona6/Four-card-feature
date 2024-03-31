@@ -1,4 +1,4 @@
-# Título del proyecto
+# Four Card Feature
 
 ![Imagen del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/IMAGEN-DEL-PROYECTO.jpg?raw=true)
 
@@ -33,10 +33,10 @@ Si quieres echar un vistazo al proyecto, te recomiendo:
 
 ## Autor ✒️
 
-**TU NOMBRE**
+Tiffany Oña Bouchakour
 
-- [micorreo@midominio.com](micorreo@midominio.com)
-- [LinkedIn](https://www.linkedin.com/in/tu-url-de-linkedin/)
+- [micorreo@midominio.com]tiffanyona6@alumnostrazos.net)
+- [LinkedIn](https://www.linkedin.com/in/tiffany-o%C3%B1a-/)
 - [Porfolio web](https://tu-dominio.com/)
 
 ## Instalación
