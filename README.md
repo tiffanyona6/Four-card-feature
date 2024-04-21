@@ -37,7 +37,7 @@ Si quieres echar un vistazo al proyecto, te recomiendo:
 
 Tiffany Oña Bouchakour
 
-- [micorreo@midominio.com](tiffanyona6@gmail.com)
+- [tiffanyona6@gmail.com]
 - [LinkedIn](https://www.linkedin.com/in/tiffany-o%C3%B1a-/)
 
 ## Instalación
